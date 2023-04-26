@@ -1,0 +1,45 @@
+.nav img {
+    position: absolute;
+    width: 296px;
+    height: 70.64px;
+    left: 50px;
+    top: 19px;
+}
+#login {
+    position: absolute;
+    width: 146px;
+    height: 46.61px;
+    left: 1075px;
+    top: 35px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    border: none;
+    cursor: pointer;
+    color: #000000;
+    background: #FFFF00;
+    border-radius: 48px;
+}
+#signin {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 146px;
+    height: 46.61px;
+    left: 1267px;
+    top: 35px;
+    background: transparent;
+    border: 1px solid #FFFF00;
+    border-radius: 48px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+    cursor: pointer;
+    color: #FFFF00;
+}

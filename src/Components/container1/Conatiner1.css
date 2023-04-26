@@ -1,0 +1,109 @@
+.Bg-yellow {
+    position: absolute;
+    width: 1398px;
+    height: 3095px;
+    left: 21px;
+    top: 110px;
+    background: #FFFF00;
+    border-radius: 20px;
+  }
+#p-1 {
+    position: absolute;
+    width: 362px;
+    height: 94px;
+    left: 112px;
+    top: 270px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 96px;
+    line-height: 94px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+.p-2 {
+    position: absolute;
+    width: 294px;
+    height: 184px;
+    left: 112px;
+    top: 352px;
+    
+    color: #FFFF00;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 96px;
+    line-height: 94px;
+    -webkit-text-stroke: 2px black;
+}
+ img {
+    position: absolute;
+    width: 414px;
+    height: 456px;
+    left: 828px;
+    top: 284px;
+}
+#p-3 {
+    position: absolute;
+    width: 332px;
+    height: 20px;
+    left: 115px;
+    top: 524px;
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 99.84%;
+    /* identical to box height, or 20px */
+    
+    
+    color: #000000;
+}
+.ctn-1 input {
+    position: absolute;
+    width: 388px;
+    height: 47px;
+    left: 115px;
+    top: 594px;
+    
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-shadow: 11px 10px 23px rgba(0, 0, 0, 0.25);
+    border-radius: 34px;
+}
+::-webkit-input-placeholder {
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 94.16%;
+    /* identical to box height, or 15px */
+    padding-left: 0.2rem;
+    
+    color: #848484;
+}
+input {
+    
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 94.16%;
+    /* identical to box height, or 15px */
+    padding-left: 2.5rem;
+    
+    color: #000000;
+}
+#search {
+    position: absolute;
+    left: 34.94%;
+    right: 66.18%;
+    top: 18.75%;
+    bottom: 80.51%;
+}
