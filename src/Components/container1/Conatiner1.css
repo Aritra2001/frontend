@@ -43,12 +43,19 @@
     line-height: 94px;
     -webkit-text-stroke: 2px black;
 }
- img {
+ #hero {
     position: absolute;
     width: 414px;
     height: 456px;
-    left: 828px;
+    left: 863px;
     top: 284px;
+}
+#shadow {
+    position: absolute;
+    width: 269.24px;
+    height: 38px;
+    left: 892.5px;
+    top: 726px;
 }
 #p-3 {
     position: absolute;
